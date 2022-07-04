@@ -18,7 +18,7 @@
        <tp>Low</tp>  
 </Priority>  
 <Environment>Окружение: ОС, браузер и т.п.</Environment>  
-<Precondition>Пишем предусловия</Precondition>  
+<Precondition>Предусловия</Precondition>  
 <STR>Шаги воспроизведения бага</STR>  
 <Actual>Фактический результат</Actual>  
 <Expected>Ожидаемый результат</Expected>  
