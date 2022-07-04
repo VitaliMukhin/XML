@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!-- Bug report -->  
+<Bug_id>001</Bug_id>  
+<Header>Заголовок</Header>  
+<Project>Name</Project>  
+<Build>Version</Build>  
+<Component>Name</Component>  
+<Severity>  
+	   <tp>Blocker</tp>  
+       <tp>Critical</tp>  
+       <tp>Major</tp>  
+       <tp>Minor</tp>  
+       <tp>Trivial</tp>  
+</Severity>  
+<Priority>  
+	   <tp>High</tp>  
+       <tp>Medium</tp>   
+       <tp>Low</tp>  
+</Priority>  
+<Environment>Окружение: ОС, браузер и т.п.</Environment>  
+<Precondition>Пишем предусловия</Precondition>  
+<STR>Шаги воспроизведения бага</STR>  
+<Actual>Фактический результат</Actual>  
+<Expected>Ожидаемый результат</Expected>  
+<Attachments>Прикреплённые файлы (скриншот, видео)</Attachments>  
+

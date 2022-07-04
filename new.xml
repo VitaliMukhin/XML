@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<person>  
+	<name>  
+		<first_name>Vitali</first_name>  
+		<last_name>Mukhin</last_name>  
+	</name>  
+	<age>44</age>  
+	<number_of_pets>1</number_of_pets>  
+	<salary>1500</salary>  
+</person>  

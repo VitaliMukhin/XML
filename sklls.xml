@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skill>
+	<skl id="1">Testing theory</skl>  
+	<skl id="2" type="HTTP">
+		<tp>methods</tp>
+		<tp>requests</tp>
+		<tp>responses</tp>
+		<tp>status codes</tp>
+	</skl>
+	<skl id="3">structure JSON XML</skl>
+	<skl id="4">API testing Postman</skl>
+	<skl id="5">sniffing Charles Fiddler</skl> 
+	<skl id="6" type="DevTools">
+		<br>Google Chrome</br>
+		<br>FireFox</br>
+	</skl>
+	<skl id="7">VPN</skl>
+	<skl id="8">mobile testing iOS Android</skl>
+	<skl id="9">building apps iOS XCode</skl>
+	<skl id="10">building apps Android Studio</skl>
+	<skl id="11">Android device management</skl>
+	<skl id="12">setting up proxies and VPN iOS Android</skl>
+	<skl id="13">Linux command line</skl>
+	<skl id="14">basic bash scripting</skl>
+	<skl id="15">remote server access</skl>
+	<skl id="16">SQL basics</skl>
+	<skl id="17" type="Postgres database">
+		<act>installation</act>
+		<act>setup</act>
+		<act>use</act>
+	</skl>
+	<skl id="18">non-relational Redis database</skl>
+	<skl id="19">Jmeter load testing</skl>
+	<skl id="20">methodology Scrum</skl>
+</skill>
